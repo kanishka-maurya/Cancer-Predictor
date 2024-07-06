@@ -3,4 +3,6 @@ matplotlib
 numpy
 seaborn
 scikit-learn
+python-dotenv
+pymysql
 -e .
